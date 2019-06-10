@@ -4,6 +4,7 @@ public class Ejercicio2 {
 
 	public static void main(String[] args) {
 		
+		float numero=5.12F;
 		double a=8;
 		int b=1;
 		String c="Colombia";

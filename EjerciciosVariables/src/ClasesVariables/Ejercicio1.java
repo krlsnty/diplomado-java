@@ -5,10 +5,10 @@ public class Ejercicio1 {
 	public static void main(String args[]) {
 	
 		String nombre="Santiago";
-		double numero=10.05;
+		float numero=10.05f;
 		final double dolar=3200;
-		float pi=3.1234993f;
-		double euler=1.12345789098765;
+		float pi=3.1434993f;
+		Double euler=2.71345789098765;
 	
 		System.out.println("El nombre es: "+nombre);
 		System.out.println("El número es: "+numero);
